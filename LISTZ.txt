@@ -1,0 +1,19 @@
+<nav class="main-nav" id="main-nav">
+  <ul>
+    <li class="FOOD">
+      <a href="https://i.ytimg.com/vi/tntOCGkgt98/maxresdefault.jpg">
+        FOOD
+      </a>
+    </li>
+    <li class="ENTERTAINMENT">
+      <a href="http://i2.cdn.turner.com/cnnnext/dam/assets/150324154025-14-internet-cats-restricted-super-169.jpeg">
+        ENTERTAINMENT
+      </a>
+    </li>
+    <li class="FASHION">
+      <a href="https://s-media-cache-ak0.pinimg.com/736x/61/58/b5/6158b5833263f2faa741a77b124e3e37.jpg">
+        FASHION
+      </a>
+    </li>
+  </ul>
+</nav>
